@@ -83,7 +83,8 @@ int main() {
 ```
 
 ## Output:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/679d1998-9fbc-4cc5-9ab6-990a3cd4bcb3)
+
 
 ## Result:
 The program is executed successfully.
